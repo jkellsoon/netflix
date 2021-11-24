@@ -57,11 +57,7 @@ export default () => {
       </section>
 
       <footer>
-        Feito com{" "}
-        <span role="img" aria-label="coração">
-          ♥️
-        </span>{" "}
-        Pelo Jonathan kellson
+        Feito Por Jonathan kellson
         <br />
         Direitos de imagem para Netflix
         <br />
